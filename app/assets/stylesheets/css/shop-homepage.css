@@ -1,0 +1,216 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.navbar-brand {
+    font-family: 'Poiret One', cursive;
+    font-size: 39px;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+       font-size: 20px;
+       background-color: #FEFEFE;
+       font-family:'Poiret One', cursive;
+       color: black;
+}
+.navbar-inverse .navbar-brand {
+color: black;
+    }
+
+
+.navbar-inverse {
+background-color: white;
+border: none;
+
+
+}
+
+body {
+    font-size: 15px;
+}
+.col-md-3 {
+    padding-left: 7px;
+
+}
+
+.pull-right {
+   position:relative;
+}
+
+.dropdown {
+    padding-top: 5px;;
+    display: block;
+      
+}
+.dropdown button {
+    background-color: white;
+    font-family: "Poiret One",cursive;
+    font-size: 20px;
+}
+.col-md-9 {
+    width: 100%;
+}
+
+#space {
+    visibility: hidden;
+}
+#green {
+    color:green;
+    font-weight: bolder;
+}
+.dropdown-menu {
+    font-family: "Poiret One",cursive;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: "Poiret One",cursive;
+     font-size: 23px;
+    font-weight: bold;
+}
+
+.caption {
+    margin-bottom: 15px;
+    overflow: visible;
+}
+
+.col-lg-12 {
+    text-align: center;
+}
+h3 {
+    font-family: "Poiret One",cursive;
+     font-size: 23px;
+    font-weight: bold;
+    color: #337ab7;
+}
+
+#title {
+    color: black;
+}
+
+.jumbotron {
+    background-color: white;
+    padding-right: 15px;;
+    
+}
+
+.jumbotron h1 {
+     font-family: "Poiret One",cursive;
+    font-size: 2.5em;
+    font-weight:bolder;
+    color: green;
+    
+;
+}
+
+.jumbotron img {
+   margin-left: 2px;
+
+    
+}
+
+h2 {
+    font-family: "Poiret One",cursive;
+     font-size: 2em;
+        font-weight: bold;
+    color: green;
+}
+
+#funeral {
+font-size: 19px;
+    font-weight: 200;
+}
+
+.images {
+    width: 50%;
+}
+
+#fbook {
+    padding-top: 5px;
+
+}
+
+#arrangement {
+    color: green;
+    font-family: "Poiret One", cursive;
+    font-size: 3em;
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+
+.snipcart-add-item {
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    color: #fff;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+ 
+    
